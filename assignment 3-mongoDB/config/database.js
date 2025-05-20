@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const dbURL = 'mongodb+srv://EmirTest:stepstep2@cluster0.kg05f.mongodb.net/yourdbname?retryWrites=true&w=majority'; // Ensure this is correct
+// const dbURL = ''; 
 
 const connectDB = async () => {
     try {
